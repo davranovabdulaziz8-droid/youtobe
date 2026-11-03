@@ -91,6 +91,19 @@
 - **[М58]** Dong JY ва б. Erectile dysfunction and risk of cardiovascular disease: meta-analysis of prospective cohort studies. JACC, 2011. https://pubmed.ncbi.nlm.nih.gov/21920268/
 - **[М59]** ЖССТ. Tobacco: E-cigarettes — савол-жавоб. https://www.who.int/news-room/questions-and-answers/item/tobacco-e-cigarettes
 
+### Лаборатория, тери касалликлари ва цитология (мутахассис рубрикалари)
+- **[М64]** Simundic AM ва б. (EFLM). Standardization of collection requirements for fasting samples. Clin Chim Acta, 2014. 12 соат оч қолиш (сув мумкин), 24 соат алкоголь ва оғир машқ йўқ, эрталаб 7–9 да намуна олиш. http://www.eflm.eu/files/efcc/5.4%20CCA%202014.pdf
+- **[М65]** UK Health Security Agency / Public Health England. Fungal skin and nail infections: diagnosis and laboratory investigation — summary table. Дерматологик намуналарнинг фақат ≈45% ида замбуруғ топилади; узоқ даволашдан олдин намуна олиш. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/619769/Fungal_skin_and_nail_infections_guidance_summary_table.pdf
+- **[М66]** Frazier WT ва б. Onychomycosis: Rapid Evidence Review. American Family Physician, 2021. https://www.aafp.org/afp/2021/1000/p359
+- **[М67]** USPSTF. Cervical Cancer: Screening (2018). 21–29 ёш: ҳар 3 йилда цитология; 30–65 ёш: ҳар 5 йилда HPV тести, бирга текшириш ёки ҳар 3 йилда цитология. https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening
+
+### Эпидемиология
+- **[М68]** ЖССТ. Brucellosis — fact sheet. Кўп ҳолатлар пастеризация қилинмаган эчки ва қўй сути ёки пишлоғи орқали юқади. https://www.who.int/news-room/fact-sheets/detail/brucellosis
+- **[М69]** ЖССТ Европа минтақавий бюроси. Multidrug- and extensively drug-resistant TB: 18 high-priority countries (Ўзбекистон шу рўйхатда). https://www.euro.who.int/en/health-topics/communicable-diseases/tuberculosis/data-and-statistics/multidrug-and-extensively-drug-resistant-tb-mxdr-tb
+- **[М70]** ЖССТ. Tuberculosis — савол-жавоб (белгилар, ташхис, даволаш). https://www.who.int/news-room/questions-and-answers/item/tuberculosis
+- **[М71]** CDC. Clean Hands: About Handwashing (камида 20 сония совун билан). https://www.cdc.gov/clean-hands/about/index.html
+- **[М73]** Ўзбекистонда никоҳдан олдин тиббий кўрик (ВИЧ ва таносил касалликлари текширувини ўз ичига олади). Амалдаги тартибни lex.uz даги қонунчилик ҳужжатлари ва Соғлиқни сақлаш вазирлиги маълумоти бўйича текширинг. Фон маълумоти: https://eurasianet.org/uzbekistan-to-require-hiv-tests-to-register-marriages
+
 ### YouTube қоидалари
 - **[М34]** YouTube. Medical misinformation policy. https://support.google.com/youtube/answer/13813322
 - **[М38]** YouTube. Хештеглардан фойдаланиш қоидалари. https://support.google.com/youtube/answer/6390658
