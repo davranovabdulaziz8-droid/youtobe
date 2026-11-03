@@ -52,6 +52,15 @@
 - **[М20]** Endocrine Society. Vitamin D for the Prevention of Disease: Clinical Practice Guideline (2024). https://www.endocrine.org/clinical-practice-guidelines/vitamin-d-for-prevention-of-disease
 - **[М21]** USPSTF. Thyroid Dysfunction: Screening (2015). https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/thyroid-dysfunction-screening
 - **[М22]** FDA. Biotin interference with lab tests (хавфсизлик хабарномаси, 2017, 2019 янгиланиш). https://www.fda.gov/medical-devices/in-vitro-diagnostics/biotin-interference-troponin-lab-tests-assays-subject-biotin-interference
+- **[М46]** Alexander EK ва б. 2017 Guidelines of the American Thyroid Association for the Diagnosis and Management of Thyroid Disease During Pregnancy and the Postpartum. Thyroid, 2017. https://pubmed.ncbi.nlm.nih.gov/28056690/
+- **[М47]** Haugen BR ва б. 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer. Тугунчаларнинг 7–15% и саратон. https://pubmed.ncbi.nlm.nih.gov/26462967/
+- **[М48]** ЖССТ. Guideline: Fortification of food-grade salt with iodine for the prevention and control of iodine deficiency disorders (2014). https://www.who.int/publications/i/item/9789241507929
+- **[М49]** NIH Office of Dietary Supplements. Iodine — Health Professional Fact Sheet (ортиқча йоднинг таъсири). https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/
+- **[М50]** ЖССТ. Anaemia — fact sheet. https://www.who.int/news-room/fact-sheets/detail/anaemia
+- **[М51]** NHS. Foods to avoid in pregnancy (жигар ва жигар маҳсулотлари — А витамини кўплиги сабабли). https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/
+- **[М52]** Hurrell RF ва б. Inhibition of non-haem iron absorption in man by polyphenolic-containing beverages. Br J Nutr, 1999. Қора чой ўсимлик темири сўрилишини 79–94% га камайтирган. https://pubmed.ncbi.nlm.nih.gov/10999016/
+- **[М53]** NIH Office of Dietary Supplements. Vitamin D — Health Professional Fact Sheet. Тавсия этилган миқдор 600 ХБ (19–70 ёш), 800 ХБ (71+), катталар учун юқори чегара 4000 ХБ. https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+- **[М54]** NICE. Vitamin B12 deficiency in over 16s: diagnosis and management (NG239, 2024). https://www.nice.org.uk/guidance/ng239
 - **[М27]** UNICEF Ўзбекистон. Uzbekistan Nutrition Survey (UNS) 2017 — қисқача ҳисобот. https://www.unicef.org/uzbekistan/media/2021/file/UNS%20-%20Executive%20Summary.pdf
 
 ### Онкология
@@ -77,7 +86,6 @@
 - **[М38]** YouTube. Хештеглардан фойдаланиш қоидалари. https://support.google.com/youtube/answer/6390658
 
 ## Кейинги ҳафталар учун қўшиладиган манбалар
-- 3-ҳафта: ЖССТ йод танқислиги бўйича материаллари, NICE B12 бўйича қўлланма (NG239, 2024).
 - 4-ҳафта: NICE CG184 (диспепсия ва «қизил байроқ» белгилар, 30-кун учун), Ўзбекистон миллий эмлаш календари (Соғлиқни сақлаш вазирлиги), ЖССТ Measles fact sheet.
 
 Бу манбаларни сценарий ёзишдан олдин текшириб, рўйхатга киритиш керак.
