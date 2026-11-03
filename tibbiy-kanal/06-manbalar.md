@@ -34,10 +34,17 @@
 - **[М4а]** USPSTF. Screening for Prediabetes and Type 2 Diabetes (2021). https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes
 - **[М26]** ЖССТ. Diabetes — fact sheet. 2022 йилда дунёда 830 млн киши диабет билан яшаган. https://www.who.int/news-room/fact-sheets/detail/diabetes
 - **[М37]** Matthews DR ва б. Homeostasis model assessment: insulin resistance and beta-cell function… Diabetologia, 1985. https://pubmed.ncbi.nlm.nih.gov/3899825/
+- **[М39]** ЖССТ. Guideline: Sugars intake for adults and children (2015). Эркин шакар кунлик энергиянинг 10% идан кам, яхшиси 5% (≈25 г) гача. https://www.who.int/publications/i/item/9789241549028
+- **[М40]** Diabetes Prevention Program Research Group. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. NEJM, 2002. Турмуш тарзи ўзгариши диабет пайдо бўлишини 58% га камайтирган. https://pubmed.ncbi.nlm.nih.gov/11832527/
+- **[М41]** Malik VS ва б. Sugar-sweetened beverages and risk of metabolic syndrome and type 2 diabetes: a meta-analysis. Diabetes Care, 2010. Энг кўп ичадиганларда (кўпинча кунига 1–2 порция) хавф 26% юқори. https://pubmed.ncbi.nlm.nih.gov/20693348/
+- **[М42]** Engeroff T ва б. After dinner rest a while, after supper walk a mile? Овқатдан кейинги жисмоний фаолият ва қанд бўйича тизимли шарҳ ва мета-таҳлил. Sports Medicine, 2023. https://pubmed.ncbi.nlm.nih.gov/36715875/
+- **[М43]** International Diabetes Federation. Metabolic syndrome — a new world-wide definition (консенсус). https://pubmed.ncbi.nlm.nih.gov/16681555/
 
 ### Жигар ва буйрак
 - **[М23]** KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD. https://kdigo.org/guidelines/ckd-evaluation-and-management/
 - **[М24]** EASL–EASD–EASO. Clinical Practice Guidelines on the management of MASLD (2024). https://pubmed.ncbi.nlm.nih.gov/38851997/
+- **[М44]** Younossi ZM ва б. The global epidemiology of NAFLD and NASH: a systematic review. Hepatology, 2023. Дунё бўйича тарқалиши ≈30%. https://pubmed.ncbi.nlm.nih.gov/36626630/
+- **[М45]** NIH. LiverTox: дори, ўсимлик воситалари ва биологик фаол қўшимчалар келтириб чиқарадиган жигар шикастланиши бўйича маълумотлар базаси. https://www.ncbi.nlm.nih.gov/books/NBK547852/
 
 ### Камқонлик, витаминлар, қалқонсимон без
 - **[М18]** ЖССТ. Guideline on haemoglobin cutoffs to define anaemia in individuals and populations (2024). https://www.who.int/publications/i/item/9789240088542
@@ -70,8 +77,7 @@
 - **[М38]** YouTube. Хештеглардан фойдаланиш қоидалари. https://support.google.com/youtube/answer/6390658
 
 ## Кейинги ҳафталар учун қўшиладиган манбалар
-- 2-ҳафта: NICE CG184 (диспепсия ва «қизил байроқ» белгилар), ADA Standards (охирги таҳрир).
 - 3-ҳафта: ЖССТ йод танқислиги бўйича материаллари, NICE B12 бўйича қўлланма (NG239, 2024).
-- 4-ҳафта: Ўзбекистон миллий эмлаш календари (Соғлиқни сақлаш вазирлиги), ЖССТ Measles fact sheet.
+- 4-ҳафта: NICE CG184 (диспепсия ва «қизил байроқ» белгилар, 30-кун учун), Ўзбекистон миллий эмлаш календари (Соғлиқни сақлаш вазирлиги), ЖССТ Measles fact sheet.
 
 Бу манбаларни сценарий ёзишдан олдин текшириб, рўйхатга киритиш керак.
