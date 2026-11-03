@@ -68,6 +68,11 @@
 - **[М6]** ЖССТ. Breast cancer — fact sheet; USPSTF Breast Cancer: Screening (2024). https://www.who.int/news-room/fact-sheets/detail/breast-cancer · https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening
 - **[М7]** USPSTF. Colorectal Cancer: Screening (2021), 45–75 ёш. https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening
 - **[М25]** USPSTF. Prostate Cancer: Screening (2018). https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening
+- **[М55]** ЖССТ Европа минтақавий бюроси. Cancer screening and early detection — fact sheet (эрта ташхис ва скрининг фарқи). https://www.who.int/europe/news-room/fact-sheets/item/cancer-screening-and-early-detection-of-cancer
+- **[М56]** USPSTF. Lung Cancer: Screening (2021). 50–80 ёш, ≥20 пачка-йил, ҳозир чекадиган ёки 15 йил ичида ташлаганлар. https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/lung-cancer-screening
+- **[М60]** NICE. Suspected cancer: recognition and referral (NG12) ва Dyspepsia and GORD (CG184) — «қизил байроқ» белгилар. https://www.nice.org.uk/guidance/ng12 · https://www.nice.org.uk/guidance/cg184
+- **[М61]** Malfertheiner P ва б. Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report. Gut, 2022. https://pubmed.ncbi.nlm.nih.gov/35944925/
+- **[М62]** Тошкентда бачадон бўйни саратони тенденциялари бўйича аҳоли регистри таҳлили (2014–2024). https://pubmed.ncbi.nlm.nih.gov/42853092/
 - **[М36]** National Cancer Institute. Tumor Markers — fact sheet. https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet
 
 ### Инфекциялар ва эмлаш
@@ -75,17 +80,23 @@
 - **[М35]** ЖССТ. Human papillomavirus vaccines: WHO position paper (2022 update). https://www.who.int/publications-detail-redirect/who-wer9750-645-672
 - **[М29]** ЖССТ. Antimicrobial resistance — fact sheet. https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance
 - **[М30]** ЖССТ. Hepatitis B — fact sheet. https://www.who.int/news-room/fact-sheets/detail/hepatitis-b
-- **[М31]** ЖССТ. Hepatitis C — fact sheet. https://www.who.int/news-room/fact-sheets/detail/hepatitis-c
+- **[М31]** ЖССТ. Hepatitis C — fact sheet. https://www.who.int/news-room/fact-sheets/detail/hepatitis-c · 2022 йилда ≈50 млн киши гепатит C билан яшаган: https://www.who.int/teams/global-hiv-hepatitis-and-stis-programmes/hepatitis/testing-and-diagnostics
+- **[М63]** ЖССТ. Global hepatitis report 2026. 2024 йилда ≈240 млн киши сурункали гепатит B билан яшаган. https://www.who.int/teams/global-hiv-hepatitis-and-stis-programmes/hepatitis/reports/global-hepatitis-report-2026
+- **[М57]** HPV эмлаши ва бепуштлик: Даниядаги миллий когорта тадқиқоти (JAMA Netw Open, 2021) ва ЖССТ вакцина хавфсизлиги бўйича глобал маслаҳат қўмитаси хулосаси. https://pubmed.ncbi.nlm.nih.gov/34436612/ · https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/human-papillomavirus-vaccines/infertility
 
 ### Зарарли одатлар
 - **[М32]** ЖССТ. Tobacco — fact sheet. https://www.who.int/news-room/fact-sheets/detail/tobacco
 - **[М33]** IARC. Smokeless tobacco инсон учун канцероген (1-гуруҳ). Шарҳ: https://pmc.ncbi.nlm.nih.gov/articles/PMC6396560/ · Монография: https://www.ncbi.nlm.nih.gov/books/NBK326494/
 
+- **[М58]** Dong JY ва б. Erectile dysfunction and risk of cardiovascular disease: meta-analysis of prospective cohort studies. JACC, 2011. https://pubmed.ncbi.nlm.nih.gov/21920268/
+- **[М59]** ЖССТ. Tobacco: E-cigarettes — савол-жавоб. https://www.who.int/news-room/questions-and-answers/item/tobacco-e-cigarettes
+
 ### YouTube қоидалари
 - **[М34]** YouTube. Medical misinformation policy. https://support.google.com/youtube/answer/13813322
 - **[М38]** YouTube. Хештеглардан фойдаланиш қоидалари. https://support.google.com/youtube/answer/6390658
 
-## Кейинги ҳафталар учун қўшиладиган манбалар
-- 4-ҳафта: NICE CG184 (диспепсия ва «қизил байроқ» белгилар, 30-кун учун), Ўзбекистон миллий эмлаш календари (Соғлиқни сақлаш вазирлиги), ЖССТ Measles fact sheet.
-
-Бу манбаларни сценарий ёзишдан олдин текшириб, рўйхатга киритиш керак.
+## Нашрдан олдин маҳаллий манбалардан текшириладиганлар
+- Ўзбекистон Соғлиқни сақлаш вазирлигининг миллий эмлаш календари (HPV, гепатит B, қизамиқ) — 24, 27-кунлар ва 4-эфир.
+- Ўзбекистонда амалдаги скрининг дастурлари (маммография, бачадон бўйни скрининги ёш оралиқлари) — 1, 22, 24-кунлар.
+- Ўзбекистон клиник протоколлари (гипертония, диабет, камқонлик) — тегишли видеолар.
+- ЖССТ Measles fact sheet — 4-эфир (болалар саломатлиги).
